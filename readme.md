@@ -6,8 +6,6 @@ Data Analytics of Chai (in 2019.08~2020.03) in South Korea
 
 **summary report is on ppt folder**
 
-<hr/>
-
 </br>
 
 ## 소개
